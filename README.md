@@ -6,10 +6,10 @@ Thank you for checking out my project, it is being created to learn more about w
 
 In order to hide API keys I have created a config file in the parent directory the repository is cloned to. Below is the sample JSON that I used to create my config.
 
-'''
+```
 {
   "APIKey" : "7152fe28d3mshb07d49c3a7848e8p1b32f1jsna3a09e4b1797",
   "host": "adsbexchange-com1.p.rapidapi.com"
 }
 
-'''
+```
